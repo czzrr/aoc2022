@@ -3,4 +3,5 @@ members = [
     "aoc_io",
     "day1",
     "day2",
+    "day3",
 ]
